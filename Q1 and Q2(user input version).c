@@ -1,3 +1,8 @@
+//In this code we can use any linear equation....
+
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include<math.h>
@@ -87,7 +92,7 @@ int main()
 
 
 
-
+//Here I have solved only question 1 but we can use any linear equation.....
 
 
 /*
