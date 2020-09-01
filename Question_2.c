@@ -1,4 +1,4 @@
-//Program for Gauss Jordan analysis with partial pivoting
+//Program for Gauss Jordan analysis using partial pivoting
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
